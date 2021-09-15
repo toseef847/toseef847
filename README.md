@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @toseef847
 - 👀 I’m interested in React & Django...
-- 🌱 I’m currently learning React & Redux...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-toseef847/toseef847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://github.com/toseef847/
+https://www.facebook.com/toseef.hasan.47
+https://twitter.com/toseef_hasan
